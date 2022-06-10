@@ -1,0 +1,14 @@
+div {
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+  background: red;
+}
+
+.style1 {
+  width: 100px;
+  height: 100px;
+  margin-left: 100px;
+  border-radius: 10px;
+  background: red;
+}
